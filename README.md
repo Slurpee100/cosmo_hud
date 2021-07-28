@@ -1,3 +1,4 @@
 # cosmo_hud
-Edited cosmo_hud for qbcore that looks like nopixels hud
-Forked from https://github.com/ihyajb
+Hello this is my first release onto github can you please show some love to it.
+
+CSS and JS edit of https://github.com/ihyajb cosmo_hud
